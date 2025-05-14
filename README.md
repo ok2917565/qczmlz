@@ -20,7 +20,7 @@
 
 |名称|地址|类型|EPG|台标|
 | ------------ | ------------ | ------------ | ------------ |------------ |
-|[清朝著名莲子](https://m3u.ibert.me/ "iptv-sources](https://raw.githubusercontent.com/ok2917565/qczmlz/refs/heads/main/m3u/zb.m3u)") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV4|✔️|✔️|
+|[清朝著名莲子](https://m3u.ibert.me/ "iptv-sources](https://raw.githubusercontent.com/ok2917565/qczmlz/refs/heads/main/m3u/zb.m3u)") |https://raw.githubusercontent.com/ok2917565/qczmlz/refs/heads/main/m3u/zb.m3u|IPV4|✔️|✔️|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
 |[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
