@@ -20,6 +20,7 @@
 
 |名称|地址|类型|EPG|台标|
 | ------------ | ------------ | ------------ | ------------ |------------ |
+|[清朝著名莲子](https://m3u.ibert.me/ "iptv-sources](https://raw.githubusercontent.com/ok2917565/qczmlz/refs/heads/main/m3u/zb.m3u)") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV4|✔️|✔️|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
 |[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
@@ -37,6 +38,7 @@
 |[传说引导页](http://iptv.qoo.us.kg/ "传说引导页")|http://tot.totalh.net/tttt.txt|IPV4|❌|❌|
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV4|✔️|✔️|
+
 
 ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。ipv6源基本可用，不能用检查有没有ipv6或者换个软件，ipv4源不能用试试换个软件。AKTV只有香港台湾电视台。20250115突然大部分IPV6直播源只能本省看，好多项目IPV6源也替换成IPV4源，现在看直播可试试“自带源软件”下几个软件。
 
