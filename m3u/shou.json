@@ -72,7 +72,7 @@
 ],
 "logo":"https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
 "lives":[
-{"name":"清朝著名莲子","type":0,"url":"https://git.acwing.com/ok2917565/lianzi/-/raw/main/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%A0%81.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"清朝著名莲子","type":0,"url":"https://raw.githubusercontent.com/ok2917565/qczmlz/refs/heads/main/m3u/zb.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"V4","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"V6","type":0,"url":"https://live.izbds.com/tv/iptv6.m3u","playerType":2},
 {"name":"平台直播","type":0,"url":"http://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2}]}
